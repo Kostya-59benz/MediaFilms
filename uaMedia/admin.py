@@ -164,7 +164,7 @@ class MovieShotsAdmin(TranslationAdmin):
 
 admin.site.register(RatingStar)
 
-admin.site.site_title = "UA-MEDIA from kostya"
-admin.site.site_header = "KOSTYA BOSS"
+admin.site.site_title = "UA-MEDIA"
+admin.site.site_header = "UA-MEDIA "
 
 
